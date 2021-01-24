@@ -1397,6 +1397,9 @@ vendor/lib/libmmcamera_ginkgo_s5kgm1_ofilm_ii_eeprom.so
 vendor/lib/libmmcamera_ginkgo_s5kgm1_sunny_i_eeprom.so
 vendor/lib/libmmcamera_ginkgo_s5kgm1_sunny_i.so
 
+# Camera service
+lib/libcameraservice.so
+
 # CDSP
 vendor/bin/cdsprpcd
 vendor/lib/libcdsprpc.so
