@@ -190,6 +190,12 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.location.gps.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.location.gps.xml
 
+# Hals
+PRODUCT_SOONG_NAMESPACES += \
+    hardware/qcom/media \
+    hardware/qcom/display \
+    vendor/qcom/opensource/audio-hal/primary-hal
+
 # Health
 PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl \
