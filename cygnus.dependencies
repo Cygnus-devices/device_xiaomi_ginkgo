@@ -7,14 +7,20 @@
    },
    {
       "remote":"Cygnus-devices",
-      "repository":android_vendor_xiaomi_ginkgo",
+      "repository":"vendor_xiaomi_ginkgo",
       "target_path":"vendor/xiaomi/ginkgo",
-      "branch":"arrow-12.0"
+      "branch":"caf-12"
    },
    {
       "remote":"Cygnus-devices",
-      "repository":"android_kernel_xiaomi_ginkgo ",
+      "repository":"kernel_xiaomi_ginkgo",
       "target_path":"kernel/xiaomi/ginkgo",
+      "branch":"caf-12"
+   },
+   {
+      "remote":"Cygnus-devices",
+      "repository":"android_vendor_miuicamera",
+      "target_path":"vendor/miuicamera",
       "branch":"caf-12"
    },
    {
@@ -28,12 +34,6 @@
       "repository":"hardware_qcom_media",
       "target_path":"hardware/qcom/media",
       "branch":"caf-12-sm8150"
-   },
-   {
-      "remote":"Cygnus-devices",
-      "repository":"android_vendor_miuicamera",
-      "target_path":"vendor/miuicamera",
-      "branch":"caf-12"      
    },
    {
       "remote":"Cygnus-devices",
