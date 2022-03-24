@@ -46,5 +46,11 @@
       "repository":"ArrowOS-Devices/android_prebuilts_clang_host_linux-x86_clang-r416183b1",
       "target_path":"prebuilts/clang/host/linux-x86/clang-r416183b1",
       "branch":"arrow-11.0"
+   },
+   {
+      "remote":"github",
+      "repository":"ArrowOS-Devices/android_packages_resources_devicesettings",
+      "target_path":"android/packages/resources/devicesettings",
+      "branch":"arrow-12.0"
    }
 ]
