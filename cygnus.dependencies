@@ -49,8 +49,8 @@
    },
    {
       "remote":"github",
-      "repository":"ArrowOS-Devices/android_packages_resources_devicesettings",
-      "target_path":"android/packages/resources/devicesettings",
+      "repository":"ArrowOS/android_packages_resources_devicesettings",
+      "target_path":"packages/resources/devicesettings",
       "branch":"arrow-12.0"
    }
 ]
