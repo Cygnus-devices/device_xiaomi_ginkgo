@@ -1,5 +1,4 @@
 type hal_misys_default, domain;
-hal_server_domain(hal_misys_default, hal_misys)
 
 type hal_misys_default_exec, exec_type, vendor_file_type, file_type;
 
