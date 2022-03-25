@@ -30,16 +30,16 @@
       "branch":"lineage-19.0-caf-sm8150"
    },
    {
-      "remote":"Cygnus-devices",
-      "repository":"hardware_qcom_media",
+      "remote":"github",
+      "repository":"erwinabs/hardware_qcom_media",
       "target_path":"hardware/qcom/media",
-      "branch":"caf-12-sm8150"
+      "branch":"lineage-19.0-caf-sm8150"
    },
    {
-      "remote":"Cygnus-devices",
-      "repository":"hardware_qcom_display",
+      "remote":"github",
+      "repository":"erwinabs/hardware_qcom_display",
       "target_path":"hardware/qcom/display",
-      "branch":"caf-12-sm8150"
+      "branch":"lineage-19.0-caf-sm8150"
    },
    {
       "remote":"github",
